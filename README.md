@@ -1,4 +1,5 @@
-# Netflix Data Analysis Using Python
+# Netflix Content Analysis Using Python
+![Dashboard](Dashboard.png "Netflix Content Analysis")
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on Netflix content data to uncover insights related to movies, TV shows, ratings, genres, countries, and content trends over time.
@@ -43,7 +44,7 @@ The goal is to understand Netflix’s content strategy using data.
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Movies dominate Netflix content compared to TV Shows
 - United States is the largest content contributor
@@ -55,11 +56,6 @@ The goal is to understand Netflix’s content strategy using data.
 
 ## Conclusion
 This project demonstrates data analysis skills including data cleaning, visualization, and business insight generation using Python.
-
 It helps understand how Netflix has evolved its content strategy over time.
 
----
 
-## Author
-Raksh Balpande
-Aspiring Data Analyst
