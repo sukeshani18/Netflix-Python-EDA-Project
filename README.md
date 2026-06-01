@@ -1,5 +1,5 @@
 # Netflix Content Analysis Using Python
-![Dashboard](Dashboard.png "Netflix Content Analysis")
+![Dashboard](report_ss.png "Netflix Content Analysis")
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on Netflix content data to uncover insights related to movies, TV shows, ratings, genres, countries, and content trends over time.
